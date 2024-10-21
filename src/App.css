@@ -1,0 +1,11 @@
+.app-container {
+  font-family: 'Nunito Sans Variable', sans-serif;
+  max-width: 1280px;
+  min-width: 1024px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  h1, a {
+    color: var(--color-white);
+  }
+}
